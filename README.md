@@ -18,4 +18,7 @@ Contains accelerometer and gyrometer  in all 3 axis
 Data from these inbuilt sensors are run through a sensor fusion algorithm to obtain Euler Angles, pitch and roll. The sensor glove uses only pitch values to actuate the Servo of the robotic arm. It is mounted in the finger region of the glove. 
 
 ## Attribute Based motion Tracking requires 
-A camera.
+#### A camera.
+Data from the images obtained for every frame is passed through the algorithm to detect and track the 3D dimensional motion of handheld stick 
+
+#### Handheld stick with red-circular/ spherical notch. 
