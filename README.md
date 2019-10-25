@@ -1,7 +1,7 @@
 # Imitative-Control-Of-a-Robotic-Arm
 Human-Computer interactive systems designed to control a 3 Degree of Freedom Robotic Arm
 Contains a 
-- Glove based system
+- Glove based system: IMU SensorGlove
 - Attribute Based motion Tracking
 
 Please Read Project Report for Mathematical Forumulation and Experimentation Details.
