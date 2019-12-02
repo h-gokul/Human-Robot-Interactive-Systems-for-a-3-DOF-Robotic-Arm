@@ -1,4 +1,4 @@
-# Imitative-Control-Of-a-Robotic-Arm
+# Human-Robot Interactive Systems for a 3 DOF Robotic-Arm
 Human-Computer interactive systems designed to control a 3 Degree of Freedom Robotic Arm
 Contains a 
 - Glove based system: IMU SensorGlove
