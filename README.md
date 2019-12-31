@@ -4,7 +4,7 @@ Contains a
 - Glove based system: IMU SensorGlove
 - Attribute Based motion Tracking
 
-#Please Read Project Report for Mathematical Forumulation and Experimentation Details.
+# Please Read Project Report for Mathematical Forumulation and Experimentation Details.
 
 # Hardware Requirements
 
